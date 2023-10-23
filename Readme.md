@@ -5,8 +5,8 @@ Com o python instalado execute o comando via cli dentro da pasta "com.apple.reco
 
 # Configuração: <h1>
 
-Ryzen 3 2200G <br>
-RX 580 2048SP <br>
-ASUS PRIME A320M-K BR <br>
-SSD 240GB <br>
-PENDRIVE 8GB <br>
+Ryzen 3 2200G <h4>
+RX 580 2048SP <h4>
+ASUS PRIME A320M-K BR <h4>
+SSD 240GB <h4>
+PENDRIVE 8GB <h4>
